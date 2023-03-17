@@ -1,0 +1,20 @@
+C:\Users\merve\Desktop\görsel P\form3\form3\bin\Debug\form3.exe.config
+C:\Users\merve\Desktop\görsel P\form3\form3\bin\Debug\form3.exe
+C:\Users\merve\Desktop\görsel P\form3\form3\bin\Debug\form3.pdb
+C:\Users\merve\Desktop\görsel P\form3\form3\obj\Debug\form3.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\görsel P\form3\form3\obj\Debug\form3.Form1.resources
+C:\Users\merve\Desktop\görsel P\form3\form3\obj\Debug\form3.Properties.Resources.resources
+C:\Users\merve\Desktop\görsel P\form3\form3\obj\Debug\form3.csproj.GenerateResource.cache
+C:\Users\merve\Desktop\görsel P\form3\form3\obj\Debug\form3.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\görsel P\form3\form3\obj\Debug\form3.exe
+C:\Users\merve\Desktop\görsel P\form3\form3\obj\Debug\form3.pdb
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form3\form3\bin\Debug\form3.exe.config
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form3\form3\bin\Debug\form3.exe
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form3\form3\bin\Debug\form3.pdb
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form3\form3\obj\Debug\form3.csproj.AssemblyReference.cache
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form3\form3\obj\Debug\form3.Form1.resources
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form3\form3\obj\Debug\form3.Properties.Resources.resources
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form3\form3\obj\Debug\form3.csproj.GenerateResource.cache
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form3\form3\obj\Debug\form3.csproj.CoreCompileInputs.cache
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form3\form3\obj\Debug\form3.exe
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form3\form3\obj\Debug\form3.pdb

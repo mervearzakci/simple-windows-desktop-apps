@@ -1,0 +1,20 @@
+C:\Users\merve\Desktop\görsel P\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\merve\Desktop\görsel P\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\merve\Desktop\görsel P\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\merve\Desktop\görsel P\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\görsel P\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\merve\Desktop\görsel P\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\merve\Desktop\görsel P\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\merve\Desktop\görsel P\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\görsel P\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\merve\Desktop\görsel P\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form5\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form5\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form5\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form5\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form5\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form5\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form5\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form5\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form5\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form5\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb

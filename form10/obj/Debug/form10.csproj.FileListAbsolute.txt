@@ -1,0 +1,10 @@
+C:\Users\merve\source\repos\form10\form10\bin\Debug\form10.exe.config
+C:\Users\merve\source\repos\form10\form10\bin\Debug\form10.exe
+C:\Users\merve\source\repos\form10\form10\bin\Debug\form10.pdb
+C:\Users\merve\source\repos\form10\form10\obj\Debug\form10.csproj.AssemblyReference.cache
+C:\Users\merve\source\repos\form10\form10\obj\Debug\form10.Form1.resources
+C:\Users\merve\source\repos\form10\form10\obj\Debug\form10.Properties.Resources.resources
+C:\Users\merve\source\repos\form10\form10\obj\Debug\form10.csproj.GenerateResource.cache
+C:\Users\merve\source\repos\form10\form10\obj\Debug\form10.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\form10\form10\obj\Debug\form10.exe
+C:\Users\merve\source\repos\form10\form10\obj\Debug\form10.pdb

@@ -1,0 +1,48 @@
+C:\Users\merve\Desktop\gp\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+C:\Users\merve\Desktop\gp\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+C:\Users\merve\Desktop\gp\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\Users\merve\Desktop\gp\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\merve\Desktop\gp\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\merve\Desktop\gp\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\merve\Desktop\gp\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\gp\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\merve\Desktop\gp\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\merve\Desktop\gp\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Desktop\gp\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\merve\Desktop\gp\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\Users\merve\Desktop\gp\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\gp\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\merve\Desktop\gp\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\merve\Desktop\gp\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\merve\Documents\1. Sınıf Bahar Dönemi\Görsel Programlama\form1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache

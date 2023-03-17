@@ -1,0 +1,10 @@
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form12\form12\bin\Debug\form12.exe.config
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form12\form12\bin\Debug\form12.exe
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form12\form12\bin\Debug\form12.pdb
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form12\form12\obj\Debug\form12.csproj.AssemblyReference.cache
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form12\form12\obj\Debug\form12.Form1.resources
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form12\form12\obj\Debug\form12.Properties.Resources.resources
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form12\form12\obj\Debug\form12.csproj.GenerateResource.cache
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form12\form12\obj\Debug\form12.csproj.CoreCompileInputs.cache
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form12\form12\obj\Debug\form12.exe
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form12\form12\obj\Debug\form12.pdb

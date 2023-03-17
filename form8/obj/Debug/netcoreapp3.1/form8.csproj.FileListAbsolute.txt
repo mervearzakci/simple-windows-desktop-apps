@@ -1,0 +1,16 @@
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form8\form8\obj\Debug\netcoreapp3.1\form8.csproj.AssemblyReference.cache
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form8\form8\obj\Debug\netcoreapp3.1\form8.Form1.resources
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form8\form8\obj\Debug\netcoreapp3.1\form8.csproj.GenerateResource.cache
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form8\form8\obj\Debug\netcoreapp3.1\form8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form8\form8\obj\Debug\netcoreapp3.1\form8.AssemblyInfoInputs.cache
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form8\form8\obj\Debug\netcoreapp3.1\form8.AssemblyInfo.cs
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form8\form8\obj\Debug\netcoreapp3.1\form8.csproj.CoreCompileInputs.cache
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form8\form8\bin\Debug\netcoreapp3.1\form8.exe
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form8\form8\bin\Debug\netcoreapp3.1\form8.deps.json
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form8\form8\bin\Debug\netcoreapp3.1\form8.runtimeconfig.json
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form8\form8\bin\Debug\netcoreapp3.1\form8.runtimeconfig.dev.json
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form8\form8\bin\Debug\netcoreapp3.1\form8.dll
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form8\form8\bin\Debug\netcoreapp3.1\form8.pdb
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form8\form8\obj\Debug\netcoreapp3.1\form8.dll
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form8\form8\obj\Debug\netcoreapp3.1\form8.pdb
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form8\form8\obj\Debug\netcoreapp3.1\form8.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form9\form9\obj\Debug\form9.csproj.AssemblyReference.cache
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form9\form9\obj\Debug\form9.Form1.resources
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form9\form9\obj\Debug\form9.Properties.Resources.resources
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form9\form9\obj\Debug\form9.csproj.GenerateResource.cache
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form9\form9\obj\Debug\form9.csproj.CoreCompileInputs.cache
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form9\form9\bin\Debug\form9.exe.config
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form9\form9\bin\Debug\form9.exe
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form9\form9\bin\Debug\form9.pdb
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form9\form9\obj\Debug\form9.exe
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form9\form9\obj\Debug\form9.pdb

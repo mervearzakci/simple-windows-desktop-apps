@@ -1,0 +1,16 @@
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form6\form6\bin\Debug\netcoreapp3.1\form6.exe
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form6\form6\bin\Debug\netcoreapp3.1\form6.deps.json
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form6\form6\bin\Debug\netcoreapp3.1\form6.runtimeconfig.json
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form6\form6\bin\Debug\netcoreapp3.1\form6.runtimeconfig.dev.json
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form6\form6\bin\Debug\netcoreapp3.1\form6.dll
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form6\form6\bin\Debug\netcoreapp3.1\form6.pdb
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form6\form6\obj\Debug\netcoreapp3.1\form6.csproj.AssemblyReference.cache
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form6\form6\obj\Debug\netcoreapp3.1\form6.Form1.resources
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form6\form6\obj\Debug\netcoreapp3.1\form6.csproj.GenerateResource.cache
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form6\form6\obj\Debug\netcoreapp3.1\form6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form6\form6\obj\Debug\netcoreapp3.1\form6.AssemblyInfoInputs.cache
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form6\form6\obj\Debug\netcoreapp3.1\form6.AssemblyInfo.cs
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form6\form6\obj\Debug\netcoreapp3.1\form6.csproj.CoreCompileInputs.cache
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form6\form6\obj\Debug\netcoreapp3.1\form6.dll
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form6\form6\obj\Debug\netcoreapp3.1\form6.pdb
+C:\Users\merve\Documents\2. Sınıf Bahar Dönemi\Görsel Programlama\form6\form6\obj\Debug\netcoreapp3.1\form6.genruntimeconfig.cache
