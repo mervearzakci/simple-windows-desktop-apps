@@ -1,2 +1,2 @@
 # simple-windows-desktop-apps
-Okulda yaptığımı basit windows masa üstü uygulamalarım
+Okulda yaptığımı basit windows masaüstü uygulamalarım
