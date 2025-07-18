@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -56,17 +56,23 @@ namespace form9
             listBox1.Items.Clear();
             textBox1.Clear();
             label4.Text = "";
-            button1.Enabled = false;
-            button3.Enabled = true;
+            button1.Enabled = true;
+            button3.Enabled = false;
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
+            if (listBox1.Items.Count == 0)
+            {
+                MessageBox.Show("Hesaplamak için en az bir not giriniz.", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                return;
+            }
+
             decimal toplam = 0;
             for (int i = 0; i < listBox1.Items.Count; i++)
                 toplam += Convert.ToDecimal(listBox1.Items[i]);
             decimal ortalama = toplam / listBox1.Items.Count;
-            Lablel4.Text = String.Format("{0:n1}", ortalama);
+            label4.Text = String.Format("{0:n1}", ortalama);
         }
     }
 }
