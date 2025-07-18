@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -20,16 +20,30 @@ namespace WindowsFormsApp3
         {
             try
             {
+                // Validate inputs
+                if (string.IsNullOrWhiteSpace(textBox1.Text) || string.IsNullOrWhiteSpace(textBox2.Text))
+                    return 0;
+
                 double a = Convert.ToDouble(textBox1.Text);
                 double b = Convert.ToDouble(textBox2.Text);
-                double c = Math.Sqrt(Math.Pow(a, 2) + Math.Pow(b, 2));
-                 return c;
+                
+                // Check for negative values
+                if (a < 0 || b < 0)
+                    return 0;
+
+                // Optimized: Use direct calculation instead of Math.Pow for squares
+                double c = Math.Sqrt(a * a + b * b);
+                return c;
             }
-            catch 
+            catch (FormatException)
             {
-               // textBox1.Text = "0";
-               // textBox2.Text = "0";
-               return 0;
+                // Handle invalid number format
+                return 0;
+            }
+            catch (OverflowException)
+            {
+                // Handle number overflow
+                return 0;
             }
         }
         private void textBox1_TextChanged(object sender, EventArgs e)

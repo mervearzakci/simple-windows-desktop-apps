@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -16,21 +16,27 @@ namespace form6
         {
             InitializeComponent();
         }
-        const int dis_temizleme = 180;
-        const int dolgu = 220;
-        const int xray = 175;
+        // Service prices as constants
+        private const int DIS_TEMIZLEME_UCRET = 180;
+        private const int DOLGU_UCRET = 220;
+        private const int XRAY_UCRET = 175;
 
         public void hesapla()
-        
         {
             int toplam = 0;
-            if (checkBox1.Checked)
-                toplam += dis_temizleme;
-            if (checkBox2.Checked)
-                toplam += dolgu;
-            if (checkBox3.Checked)
-                toplam += xray;
-            label5.Text = "Toplam Ödenecek Tutar=" + toplam.ToString() + "TL";
+            
+            // Optimized: Use array-based calculation
+            CheckBox[] checkBoxes = { checkBox1, checkBox2, checkBox3 };
+            int[] prices = { DIS_TEMIZLEME_UCRET, DOLGU_UCRET, XRAY_UCRET };
+            
+            for (int i = 0; i < checkBoxes.Length; i++)
+            {
+                if (checkBoxes[i].Checked)
+                    toplam += prices[i];
+            }
+            
+            // Improved formatting
+            label5.Text = $"Toplam Ödenecek Tutar = {toplam:C0}";
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
@@ -50,9 +56,10 @@ namespace form6
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            label2.Text = dis_temizleme.ToString() + "TL";
-            label3.Text = dolgu.ToString() + "TL";
-            label4.Text = xray.ToString() + "TL";
+            // Improved formatting for service prices
+            label2.Text = $"{DIS_TEMIZLEME_UCRET:C0}";
+            label3.Text = $"{DOLGU_UCRET:C0}";
+            label4.Text = $"{XRAY_UCRET:C0}";
         }
     }
 }
